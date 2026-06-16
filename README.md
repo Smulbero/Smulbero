@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Smulbero 👋
 
-<!--
-**Smulbero/Smulbero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a hobbyist developer who codes for fun, working across frontend development and cloud/infrastructure tooling.
 
-Here are some ideas to get you started:
+## 🛠️ Tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Frameworks**
+
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,python,react)](https://skillicons.dev)
+
+**Cloud & Infrastructure**
+
+[![Infra](https://skillicons.dev/icons?i=azure,powershell,terraform,ansible)](https://skillicons.dev)
+
+## My GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=Smulbero&show_icons=true&theme=default
+
