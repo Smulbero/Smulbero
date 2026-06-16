@@ -14,5 +14,4 @@ I'm a hobbyist developer who codes for fun, working across frontend development 
 
 ## My GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=Smulbero&show_icons=true&theme=default
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smulbero&layout=compact&theme=dark)
